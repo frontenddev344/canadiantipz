@@ -12,6 +12,7 @@ module.exports = {
         'dining': "url('img/dining.jpg')",
         'weather': "url('img/Weather.jpg')",
         'about': "url('img/about.jpeg')",
+        'casino': "url('img/caaas.jpg')",
        
       }
     },
