@@ -1155,6 +1155,10 @@ input#submit {
   padding: 16px 44px;
 }
 
+.active {
+  color: #C30047 !important;
+}
+
 .after\:absolute::after {
   content: var(--tw-content);
   position: absolute;

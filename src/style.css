@@ -122,3 +122,7 @@ input#submit {
     width: auto;
     padding: 16px 44px;
 }
+
+.active {
+    color: #C30047 !important;
+}
