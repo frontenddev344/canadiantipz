@@ -620,6 +620,10 @@ video {
   margin-bottom: 25px;
 }
 
+.mb-\[30px\] {
+  margin-bottom: 30px;
+}
+
 .mb-\[45px\] {
   margin-bottom: 45px;
 }
@@ -936,6 +940,10 @@ video {
   font-size: 28px;
 }
 
+.text-\[30px\] {
+  font-size: 30px;
+}
+
 .text-\[32px\] {
   font-size: 32px;
 }
@@ -1104,6 +1112,43 @@ video {
 
 .border-bottom {
   border-bottom: 1px solid rgba(255, 255, 255, 0.10);
+}
+
+.form {
+  border-width: 15px;
+  border-color: #e3e3e3;
+  box-shadow: 0px 0px 29px 0px rgba(0, 0, 0, 0.3);
+  max-width: 700px;
+  margin: 0 auto;
+  width: 100%;
+  padding: 30px;
+}
+
+.form_div {
+  margin-bottom: 30px;
+}
+
+.form_div input,
+.form_div textarea#w3review {
+  color: #000000;
+  border: 1px solid #d6d6d6;
+  width: 100%;
+  padding: 16px;
+}
+
+.form_div textarea#w3review .form h2 {
+  font-weight: 500;
+  text-align: center;
+  font-size: 30px;
+  line-height: 1.23;
+  margin-bottom: 50px;
+}
+
+input#submit {
+  color: #fff;
+  display: inline-block;
+  width: auto;
+  padding: 16px 44px;
 }
 
 .after\:absolute::after {
