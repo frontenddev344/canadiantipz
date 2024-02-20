@@ -784,6 +784,10 @@ video {
   background-image: url('img/Weather.jpg');
 }
 
+.bg-casino {
+  background-image: url('img/caaas.jpg');
+}
+
 .bg-cover {
   background-size: cover;
 }
