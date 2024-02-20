@@ -768,6 +768,10 @@ video {
   background-image: url('img/about.jpeg');
 }
 
+.bg-casino {
+  background-image: url('img/caaas.jpg');
+}
+
 .bg-dining {
   background-image: url('img/dining.jpg');
 }
@@ -782,10 +786,6 @@ video {
 
 .bg-weather {
   background-image: url('img/Weather.jpg');
-}
-
-.bg-casino {
-  background-image: url('img/caaas.jpg');
 }
 
 .bg-cover {
