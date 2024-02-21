@@ -976,6 +976,10 @@ video {
   font-weight: 600;
 }
 
+.font-\[700\] {
+  font-weight: 700;
+}
+
 .font-bold {
   font-weight: 700;
 }
@@ -1043,7 +1047,7 @@ video {
 
 @media(max-width:1023px) {
   .mySidenavs {
-    background: #4c4c4c;
+    background: #000000;
     width: 320px;
     position: fixed;
     top: 0;
@@ -1118,6 +1122,12 @@ video {
   }
 }
 
+@media (max-width:767px) {
+  a {
+    display: block;
+  }
+}
+
 .border-bottom {
   border-bottom: 1px solid rgba(255, 255, 255, 0.10);
 }
@@ -1167,6 +1177,10 @@ figure.footer-logo img {
   max-width: 200px;
   width: 100%;
   filter: brightness(0) invert(1);
+}
+
+.Venetian {
+  width: 100%;
 }
 
 .after\:absolute::after {
