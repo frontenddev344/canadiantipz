@@ -1159,6 +1159,12 @@ input#submit {
   color: #C30047 !important;
 }
 
+figure.footer-logo img {
+  max-width: 200px;
+  width: 100%;
+  filter: brightness(0) invert(1);
+}
+
 .after\:absolute::after {
   content: var(--tw-content);
   position: absolute;
