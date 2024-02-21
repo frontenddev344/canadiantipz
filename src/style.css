@@ -126,3 +126,8 @@ input#submit {
 .active {
     color: #C30047 !important;
 }
+figure.footer-logo img {
+    max-width: 200px;
+    width: 100%;
+    filter: brightness(0) invert(1);
+}
