@@ -1040,6 +1040,12 @@ video {
 
 /* npx tailwindcss -i ./src/style.css -o ./build/style.css --watch */
 
+/* Apply the font to the body using Tailwind CSS */
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
 @media(max-width:1023px) {
   .mySidenavs {
     background: #000000;
